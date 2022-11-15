@@ -1,3 +1,4 @@
+AWSTemplateFormatVersion: 2010-09-09
 Description: (Fady) Udacity Cloud DevOps ( High Availability WebApp)
 Parameters:
   EnvironmentName:
